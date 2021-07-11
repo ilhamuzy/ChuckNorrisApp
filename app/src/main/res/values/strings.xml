@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChuckNorris</string>
+    <string name="title_search_screen">Search for facts</string>
+    <string name="hint_inputfield_search_query">Type your search query</string>
+    <string name="label_chipsground_suggestions">Suggestions</string>
+    <string name="label_chipsground_history">Recent Searches</string>
+    <string name="error_querytextfield_invalid_query">Invalid query</string>
+    <string name="error_snackbar_cannot_proceed">Cannot proceed with an invalid query</string>
+    <string name="error_snackbar_cannot_load_suggestions">Cannot load search suggestions</string>
+
+</resources>

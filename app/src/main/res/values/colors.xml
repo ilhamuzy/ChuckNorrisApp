@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="PrimaryBlueOne">#0D70B2</color>
+    <color name="PrimaryBlueTwo">#ADDEFE</color>
+    <color name="PrimaryYellowOne">#F4C14F</color>
+    <color name="PrimaryYellowTwo">#FFE3AA</color>
+    <color name="TextTitle">#333333</color>
+    <color name="BodyText">#666666</color>
+    <color name="InactiveState">#999999</color>
+    <color name="FieldOutline">#BFBFBF</color>
+    <color name="FadedContent">#EDEBEB</color>
+    <color name="red">#E15E54</color>
+    <color name="green">#3EB7A1</color>
+    <color name="blue">#488CD3</color>
+    <color name="Grey">#BFBFBF</color>
+    <color name="GreyOne">#BFBFBF</color>
+    <color name="GreyTwo">#EDEBEB</color>
+    <color name="SplashScreen">#33A0D5ED</color>
+    <color name="PrimaryBlueThree10">#33406DA1</color>
+    <color name="PrimaryBlueThree">#287CA1</color>
+</resources>
